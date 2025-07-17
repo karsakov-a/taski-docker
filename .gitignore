@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 
 frontend/node_modules
+
+# Файл .dockerignore
+venv
+.git
+db.sqlite3
+.idea
+.vscode
+.env
