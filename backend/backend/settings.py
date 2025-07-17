@@ -1,3 +1,5 @@
+"""Настройки Django-проекта Taski."""
+
 import os
 from pathlib import Path
 
@@ -14,7 +16,7 @@ ALLOWED_HOSTS = [
     'metall88.zapto.org',
     '51.250.99.113',
     'localhost',
-    'taskidoc.zapto.org'
+    'taskidoc.zapto.org',
 ]
 
 
